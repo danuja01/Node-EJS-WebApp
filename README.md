@@ -1,5 +1,7 @@
 # BLOGS WEBAPP
 
+simple blogs web application with all crud operations for learn node.js
+
 ## 1.Seting up the enviroment
 
 - Goto the folder in terminal and run
